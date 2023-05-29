@@ -24,6 +24,10 @@
     #btn {
         flex-direction: column;
     }
+
+    #simples, #compostos {
+        margin: 7px 48px; 
+    }
 }
 
 @media(max-width: 321px){
