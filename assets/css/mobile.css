@@ -16,6 +16,15 @@
     .linhaum {
         margin-inline: -2px;
     }
+
+    h1 {
+        font-size: 32px;
+    }
+
+    button{
+        display: flex;
+        flex-direction: column;
+    }
 }
 
 @media(max-width: 321px){
