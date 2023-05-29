@@ -21,7 +21,7 @@
         font-size: 32px;
     }
 
-    #simples, #compostos{
+    #btn {
         flex-direction: column;
     }
 }
