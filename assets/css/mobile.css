@@ -2,8 +2,17 @@
     #container{
         width: 628px;
     }
+
+    .linhaum {
+        margin-inline: 127px;
+    }
 }
 
+@media(max-width: 426px){
+    #container{
+        width: 409px;
+    }
+}
 
 @media(max-width: 321px){
     #container{
